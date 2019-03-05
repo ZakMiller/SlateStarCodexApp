@@ -1,5 +1,7 @@
 {
   "name": "Slate Star Codex",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
